@@ -258,10 +258,11 @@ header:hover .nav{
 	display:flex;
 	width:100%;
 	height:500px;
-	background:linear-gradient(to bottom, rgba(21, 208, 21, .8), rgba(21, 208, 21, .8)), url("images/artist-image/2016.jpg");
-	background-size:cover;
-/*	background-color:#0dd40d;
-    background-blend-mode:multiply;*/
+	/*background:linear-gradient(to bottom, rgba(21, 208, 21, .8), rgba(21, 208, 21, .8)), url("images/artist-image/2016.jpg");*/
+	background:url("images/artist-image/2016.jpg");
+	background-color:#0dd40d;
+    background-blend-mode:multiply;
+    background-size:cover;
     -webkit-filter:brightness(1.2);
 	align-items: center;
 	justify-content: center;
