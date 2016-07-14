@@ -1,0 +1,13 @@
+	"artist" : [
+	{
+	    "name" : "Designer",
+	    "image" : "http://dessins-animes.com/da/johnny_bravo/images/johnnybravo4.jpg",
+	},
+	{
+	    "name" : "Anderson .Peak",
+	    "image" : "https://pmcdeadline2.files.wordpress.com/2016/02/the-powerpuff-girls-2016.jpg",
+	},
+	{
+	    "name" : "G Herbo",
+	    "image" : "./images/artists-image/Desiigner.jpg",
+	}];
