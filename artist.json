@@ -1,4 +1,4 @@
-	{"artist" : [
+	{ "artist" : [
 	{
 	    "name" : "Designer",
 	    "image" : "http://dessins-animes.com/da/johnny_bravo/images/johnnybravo4.jpg",
@@ -10,5 +10,5 @@
 	{
 	    "name" : "G Herbo",
 	    "image" : "https://i.ytimg.com/vi/dB5uveXOfJk/maxresdefault.jpg",
-	},
+	}
 	]};
