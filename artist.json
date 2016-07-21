@@ -5,10 +5,22 @@
 	},
 	{
 	    "name" : "Anderson .Peak",
-	    "image" : "https://pmcdeadline2.files.wordpress.com/2016/02/the-powerpuff-girls-2016.jpg"
+	    "image" : "artist-image/Anderson-.Paak.jpg"
 	},
 	{
 	    "name" : "G Herbo",
-	    "image" : "https://i.ytimg.com/vi/dB5uveXOfJk/maxresdefault.jpg"
+	    "image" : "artist-image/G-Herbo.jpg"
+	},
+	{
+	    "name" : "Lil Yachty",
+	    "image" : "artist-image/Lil-Yachty-2.jpeg"
+	},
+	{
+	    "name" : "Lil Dicky",
+	    "image" : "artist-image/Lil-dicky.jpg"
+	},
+	{
+	    "name" : "Dave East",
+	    "image" : "artist-image/Dave-East.jpg"
 	}
 	]}
