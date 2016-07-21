@@ -1,7 +1,8 @@
 	{ "artist" : [
 	{
 	    "name" : "Designer",
-	    "image" : "artist-image/Desiigner.jpg"
+	    "image" : "artist-image/Desiigner.jpg",
+	    "video" : "https://www.youtube.com/embed/8ZewUroc-FY?autoplay=1"
 	},
 	{
 	    "name" : "Anderson .Peak",
